@@ -4,9 +4,9 @@
       <h1><a href="home">yuya's Profile</a></h1>
       <nav class="pc">
         <ul>
-          <li class="navList"><a href="about">About</a></li>
-          <li class="navList"><a href="port">Portfolio</a></li>
-          <li class="navList"><a href="contact">Contact</a></li>
+          <li class="navList"><a href="#/about">About</a></li>
+          <li class="navList"><a href="#/port">Portfolio</a></li>
+          <li class="navList"><a href="#/contact">Contact</a></li>
         </ul>
       </nav>
     </div>
