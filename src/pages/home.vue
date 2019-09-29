@@ -16,7 +16,7 @@
         </p>
       </div>
       <div class="pageLink">
-        <a href="about">Aboutページへ</a>
+        <a href="#/about">Aboutページへ</a>
       </div>
     </section>
 
@@ -31,7 +31,7 @@
         <p>※ 随時、更新していきます。</p>
       </div>
       <div class="pageLink">
-        <a href="port">Portfoliosページへ</a>
+        <a href="#/port">Portfoliosページへ</a>
       </div>
     </section>
 
@@ -46,7 +46,7 @@
         <p>出会った方々、よろしくお願いします！</p>
       </div>
       <div class="pageLink">
-        <a href="contact">Contactページへ</a>
+        <a href="#/contact">Contactページへ</a>
       </div>
     </section>
   </main>

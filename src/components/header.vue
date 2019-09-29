@@ -1,7 +1,7 @@
 <template>
   <header>
     <div class="setWidth flex headerWrapper">
-      <h1><a href="home">yuya's Profile</a></h1>
+      <h1><a href="#/home">yuya's Profile</a></h1>
       <nav class="pc">
         <ul>
           <li class="navList"><a href="#/about">About</a></li>

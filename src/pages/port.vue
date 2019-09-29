@@ -12,25 +12,25 @@
       <ul class="setWidth">
         <li>
           <div class="image">
-            <a href="chat"><img src="images/chat01.jpg" alt="chat"></a>
+            <a href="#/chat"><img src="images/chat01.jpg" alt="chat"></a>
           </div>
           <h4>chat</h4>
         </li>
         <li>
           <div class="image">
-            <a href="mercari"><img src="images/mercari01.jpg" alt="mercari"></a>
+            <a href="#/mercari"><img src="images/mercari01.jpg" alt="mercari"></a>
           </div>
           <h4>メルカリのクローンサイト</h4>
         </li>
         <li>
           <div class="image">
-            <a href="blog"><img src="images/video.jpg" alt="blog"></a>
+            <a href="#/blog"><img src="images/video.jpg" alt="blog"></a>
           </div>
           <h4>WordPress自作テーマ</h4>
         </li>
         <li>
           <div class="image">
-            <a href="phono"><img src="images/video.jpg" alt="phono"></a>
+            <a href="#/phono"><img src="images/video.jpg" alt="phono"></a>
           </div>
           <h4>phonoBook</h4>
         </li>
@@ -45,7 +45,7 @@
       <ul class="setWidth">
         <li>
           <div class="image">
-            <a href="chat"><img src="images/chat01.jpg" alt="chat"></a>
+            <a href="#/chat"><img src="images/chat01.jpg" alt="chat"></a>
           </div>
           <h4>VR同好会ホームページ</h4>
         </li>
