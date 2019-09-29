@@ -11,6 +11,7 @@ Vue.use(VueRouter)
 
 const router = new VueRouter({
   mode: "history",
+  base: "/profile",
   routes: [
     {
         path     : "/",
