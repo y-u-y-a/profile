@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: process.env.VUE_APP_HOST + "/profile/",
+    publicPath: "./profile",
     outputDir: "docs",
 }
