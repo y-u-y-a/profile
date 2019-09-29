@@ -1,5 +1,6 @@
 module.exports = {
-    publicPath: process.env.NODE_ENV === "production"
-      ? "./"
-      : "/profile/",
+  publicPath: process.env.NODE_ENV === "production"
+    ? "/profile/"
+    : "/",
+  outputDir: "docs",
 }

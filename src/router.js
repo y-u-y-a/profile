@@ -10,8 +10,7 @@ import Contact   from "./pages/contact.vue"
 Vue.use(VueRouter)
 
 const router = new VueRouter({
-  mode: "history",
-  base: "/profile",
+  // mode: "history",
   routes: [
     {
         path     : "/",
