@@ -13,7 +13,7 @@
         <li><a href="#">Twitter</a></li>
         <li><a href="#">GitHub</a></li>
         <li><a href="#">Qiita</a></li>
-        <li><a href="#">Wantedly</i></a></li>
+        <li><a href="#">Wantedly</a></li>
       </ul>
       <small>since 2019 yuya's profile</small>
     </div>
