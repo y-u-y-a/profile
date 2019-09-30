@@ -1,5 +1,13 @@
 # profile
 
+##残作業
+
+###①historyモードを適用して本番環境にあげる→静的ページのhistoryモードはフォールバックしてしまう
+
+###②内容の編集
+
+###③コンポーネントの修正
+
 ## Project setup
 ```
 npm install
@@ -27,3 +35,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
