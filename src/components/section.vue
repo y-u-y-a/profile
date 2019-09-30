@@ -1,7 +1,7 @@
 <template>
   <section class="lightWhite">
     <div class="sectionTitle">
-      <h2>{{title}}</h2>
+      <h3>{{title}}</h3>
       <p>{{subTitle}}</p>
     </div>
     <div class="setWidth text">
@@ -33,7 +33,7 @@ export default{
     .sectionTitle{
       text-align:center;
       padding-top:2rem;
-      h2{
+      h3{
         font-size:28px;
         font-weight:bold;
         margin-bottom:0.5rem;
