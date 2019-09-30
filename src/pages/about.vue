@@ -77,26 +77,6 @@
         <p>このサイトは僕が興味を持った企業さんがみていると思うので、僕が何に興味を持ったのかを聞き出していただけると嬉しいです。(自分でも一生懸命伝えます！)</p>
       </div>
     </section>
-
-    <section class="pc">
-      <div class="sectionTitle">
-        <h3>LINKS</h3>
-        <p>〜気になったらどうぞ〜</p>
-      </div>
-      <div class="setWidth list">
-        <ul>
-          <li>Facebook</li>
-          <li>Twitter記事にするほどでもないようなことを呟いています</li>
-          <li>
-            <a href="https://qiita.com/y_u_y_a" target="_brank" title="Qiita">Qiita</a>技術的な記事を投稿しています
-          </li>
-          <li>
-            <a href="https://github.com/y-u-y-a" target="_brank" title="Github">Github</a>作成した作品のソースコードが見れます
-          </li>
-          <li>Wantedly</li>
-        </ul>
-      </div>
-    </section>
   </main>
 </template>
 
