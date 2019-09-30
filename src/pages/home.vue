@@ -117,7 +117,7 @@
     background-attachment:fixed;
 
     text-align:center;
-    padding:8rem 0 4rem;
+    padding:7rem 0 5rem;
     color:#FFFFFF;
     .eyecatchTitle{
       margin-bottom: 1rem;
