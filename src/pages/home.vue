@@ -1,6 +1,6 @@
 <template>
   <main>
-    <div class="eyecatch" style="background-image:url(images/topEyecatch.jpg);">
+    <div class="eyecatch" style="background-image:url(images/home.jpg);">
       <div class="eyecatchTitle">WELCOME TO MY PROFILE SITE</div>
       <p>I WILL SHOW YOU MY SELF INTRODUCTION</p>
     </div>
