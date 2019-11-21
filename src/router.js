@@ -1,10 +1,10 @@
 import Vue       from "vue"
 import VueRouter from "vue-router"
 
-import Home      from "./pages/home.vue"
-import About     from "./pages/about.vue"
-import Port      from "./pages/port.vue"
-import Contact   from "./pages/contact.vue"
+import Home      from "./pages/Home"
+import About     from "./pages/About"
+import Port      from "./pages/Port"
+import Contact   from "./pages/Contact"
 
 
 Vue.use(VueRouter)

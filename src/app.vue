@@ -1,17 +1,15 @@
 <template>
   <body style="background-image:url(images/base.jpg);" ontouchstart="">
-    <Header></Header>
+    <Header/>
     <RouterView/>
-    <Footer></Footer>
+    <Footer/>
   </body>
 </template>
 
 <script>
-// importすることで内部で利用可能にする
-import Header from "./components/header.vue"
-import Footer from "./components/footer.vue"
+import Header from "./components/Header"
+import Footer from "./components/Footer"
 
-// exportすることで外部で利用可能にする
 export default {
   components: {
     Header,
